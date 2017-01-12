@@ -1,2 +1,6 @@
-# YAMLtoDXFParser
-This is a translation program between the YAML file format supported by the NASA Tensegrity Robotics Toolkit and DXF a CAD file format.
+# YamlParser
+Pmpm Yaml parser.
+Standalone program that parse/transfer a NTRT yaml to a dfx file used in other software such as push me pull me 3d.
+- can parse simple structure from yaml.
+- can combine multiple structures, with such syntax that are defined in the yaml format.
+- export .dfx file.
